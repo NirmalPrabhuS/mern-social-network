@@ -1,0 +1,12 @@
+{
+  "name": "devconnector",
+  "version": "1.0.0",
+  "description": "Social network for Developers",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "server": "nodemon server"
+  },
+  "author": "Nirmal",
+  "license": "MIT"
+}
